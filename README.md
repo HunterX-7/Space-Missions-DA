@@ -32,9 +32,9 @@ The Space Mission Dashboard project provides a comprehensive analysis of all spa
 
 </br>
 
-Questions answer with this dashboard
+Questions answered with this dashboard
 
-1. How have rocket launches trended across time? Has mission success rate increased?
+1. How have rocket launches trended across time? Has the mission success rate increased?
 
 2. Which countries have had the most successful space missions? Has it always been that way?
 
