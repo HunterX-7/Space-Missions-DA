@@ -24,7 +24,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Space Mission dashboard <a name="about-project"></a>
+# 📖 Space Mission Dashboard <a name="about-project"></a>
 
 The Space Mission Dashboard project provides a comprehensive analysis of all space missions conducted from 1957 to August 2022. Leveraging Power BI, this project dives into a rich dataset, encompassing crucial details such as launch location, date, and outcomes, as well as the responsible space agency. It also explores rocket specifics, including names, prices, and statuses.
 
