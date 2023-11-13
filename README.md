@@ -32,6 +32,16 @@ The Space Mission Dashboard project provides a comprehensive analysis of all spa
 
 </br>
 
+Questions answer with this dashboard
+
+1. How have rocket launches trended across time? Has mission success rate increased?
+
+2. Which countries have had the most successful space missions? Has it always been that way?
+
+3. Which rocket has been used for the most space missions? Is it still active?
+
+4. Are there any patterns you can notice with the launch locations?
+
 ## 🛠 Built With <a name="built-with"></a>
 
 
